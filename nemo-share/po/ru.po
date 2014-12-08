@@ -77,11 +77,11 @@ msgstr "Уже есть ресурс с таким именем"
 
 #: ../src/nemo-share.c:555 ../src/nemo-share.c:791
 msgid "Modify _Share"
-msgstr "Измен_ить ресурс"
+msgstr "Изменить ресурс"
 
 #: ../src/nemo-share.c:555 ../src/nemo-share.c:793
 msgid "Create _Share"
-msgstr "С_оздать ресурс"
+msgstr "Создать ресурс"
 
 #: ../src/nemo-share.c:683
 msgid "There was an error while getting the sharing information"
@@ -89,7 +89,7 @@ msgstr "При получении сведений о ресурсе возни�
 
 #: ../src/nemo-share.c:1055
 msgid "Share"
-msgstr "Общий до_ступ"
+msgstr "Общий доступ"
 
 #: ../src/nemo-share.c:1115
 msgid "Folder Sharing"
@@ -173,20 +173,20 @@ msgstr "<big><b>Общий доступ к папке</b></big>"
 
 #: ../interfaces/share-dialog.ui.h:2
 msgid "Co_mment:"
-msgstr "_Комментарий:"
+msgstr "Комментарий:"
 
 #: ../interfaces/share-dialog.ui.h:3
 msgid "Share _name:"
-msgstr "_Ресурс:"
+msgstr "Ресурс:"
 
 #: ../interfaces/share-dialog.ui.h:4
 msgid "Share this _folder"
-msgstr "Опубликовать эту _папку"
+msgstr "Опубликовать эту папку"
 
 #: ../interfaces/share-dialog.ui.h:5
 msgid "_Allow others to create and delete files in this folder"
-msgstr "_Разрешать другим пользователям изменять содержимое папки"
+msgstr "Разрешать другим пользователям изменять содержимое папки"
 
 #: ../interfaces/share-dialog.ui.h:6
 msgid "_Guest access (for people without a user account)"
-msgstr "_Гостевой доступ (для пользователей без локальной учётной записи)"
+msgstr "Гостевой доступ (для пользователей без локальной учётной записи)"
